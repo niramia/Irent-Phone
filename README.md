@@ -82,16 +82,20 @@ Irent-Phone/
 ├── .gitignore
 ├── index.php
 ├── wireframe/
-│   └── wireframe.html
+│   └── wireframe (link canva)
 ├── assets/
 │   ├── css/
-│   ├── js/
-│   └── img/
+│   │   └── style.css
+│   └──  js/
+│       └── main.js 
 ├── config/
 ├── includes/
 └── pages/
     ├── admin/
+    │   └── dashboard.html
     └── public/
+        ├── beranda.html
+        └── login.html
 ```
 
 ## Rencana Data Inti (gambaran awal)
